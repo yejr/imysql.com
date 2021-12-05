@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to imysql
 
 You can use the [editor on GitHub](https://github.com/yejr/imysql.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 标题 1
+## 标题 2
+### 标题 3
 
 - Bulleted
 - List
@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Jekyll 主题
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yejr/imysql.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
